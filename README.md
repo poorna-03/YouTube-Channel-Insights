@@ -19,10 +19,11 @@ A simple and clean Streamlit web app that displays public insights of any YouTub
 ## ⚙️ How to Run This App Locally
 
 ### 1. Generate code using AI
-1.Enter the correct and define the user needs in the prompt
-(or you can describe your problem statement and ask ai to grnerate  prompt to get a streamlit code)
-2.Then copy the code and paste in in your notepad or you can also use vs code(if you're using notepad python installation is necessary make sure you have python)
-3.Then save the file with .py extension
+- 1.Enter the correct and define the user needs in the prompt
+(or you can describe your problem statement and ask ai to grnerate  prompt to get a streamlit code).
+- 2.Then copy the code and paste in in your notepad or you can also use vs code(if you're using notepad python installation is necessary make sure you have python).
+- 3.Now you need to replace your API key on the code with your actual YouTube Data API v3 key.
+- 4.Then save the file with .py extension.
 
 ### 2. Install Requirements
 
@@ -36,17 +37,7 @@ If `requirements.txt` doesn't exist yet, you can use:
 pip install streamlit google-api-python-client
 ```
 
-### 3. Add Your API Key
-
-Replace the line in `app.py`:
-
-```python
-API_KEY = "YOUR_API_KEY"
-```
-
-with your actual YouTube Data API v3 key.
-
-### 4. Run the App
+### 3. Run the App
 
 ```bash
 streamlit run app.py
@@ -79,3 +70,5 @@ youtube-channel-insights/
 
 **Poorna Devi**  
 Feel free to connect or contribute!
+- poorna7708@gmail.com
+- https://www.linkedin.com/in/poorna-devi-m-snsinstitutions/
