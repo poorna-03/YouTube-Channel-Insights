@@ -18,12 +18,11 @@ A simple and clean Streamlit web app that displays public insights of any YouTub
 ----
 ## ⚙️ How to Run This App Locally
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/youtube-channel-insights.git
-cd youtube-channel-insights
-```
+### 1. Generate code using AI
+1.Enter the correct and define the user needs in the prompt
+(or you can describe your problem statement and ask ai to grnerate  prompt to get a streamlit code)
+2.Then copy the code and paste in in your notepad or you can also use vs code(if you're using notepad python installation is necessary make sure you have python)
+3.Then save the file with .py extension
 
 ### 2. Install Requirements
 
